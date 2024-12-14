@@ -1,0 +1,86 @@
+{
+    "gameTitle": "Spot the Difference- Animals",
+    "images": {
+        "image1": "Images/alien",
+        "image2": "Images/alien2"
+    },
+    "differences": [
+
+        {
+            "x": 400,
+            "y": 850,
+            "width": 100,
+            "height": 100
+        },
+        {
+            "x": 1280,
+            "y": 360,
+            "width": 70,
+            "height": 70
+        },
+        {
+            "x": 1050,
+            "y": 700,
+            "width": 150,
+            "height": 70
+        },
+        {
+            "x": 1050,
+            "y": 630,
+            "width": 150,
+            "height": 60
+        },
+        {
+            "x": 820,
+            "y": 550,
+            "width": 100,
+            "height": 100
+        },
+        {
+            "x": 700,
+            "y": 800,
+            "width": 200,
+            "height": 200
+        },
+        {
+            "x": 720,
+            "y": 230,
+            "width": 120,
+            "height": 70
+        },
+        {
+            "x": 510,
+            "y": 510,
+            "width": 100,
+            "height": 100
+        },
+
+        {
+            "x": 430,
+            "y": 250,
+            "width": 100,
+            "height": 100
+        },
+
+        {
+            "x": 180,
+            "y": 110,
+            "width": 120,
+            "height": 120
+        },
+
+        {
+            "x": 1180,
+            "y": 540,
+            "width": 120,
+            "height": 120
+        },
+
+        {
+            "x": 150,
+            "y": 280,
+            "width": 180,
+            "height": 120
+        }
+    ]
+}
